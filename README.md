@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZjbWs4eXRycGVjcnk5Yzl3cWtycnRiZWphNm1zN3p3MThneWczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R36Gr7iGSlkU6Dv9S6/giphy.gif" width=250 height=250/>
 </div>
 
-# Hello, I´m Djgamertri
+# Hello, I´m Erick Rodriguez ( Djgamertri )
 
 I am currently doing an internship at an aerocivil in Colombia, I´m studying on my own new technologies that may be useful in 2024
 
