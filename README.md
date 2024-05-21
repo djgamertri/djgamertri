@@ -8,6 +8,11 @@ I am currently doing an internship at an aerocivil in Colombia, I´m studying on
 
 I want to finish my studies in software engineering in Canada, in addition to getting enough experience working in a real work environment
 
+## Contact Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/erick-rodriguez-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-pena-dev" height="30" width="40" /></a>
+
 ### Things I code with
 
 <p align="center">
@@ -15,10 +20,6 @@ I want to finish my studies in software engineering in Canada, in addition to ge
     <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,express,php,py,java,cpp,docker,mysql,postgresql,mongodb,html,css,react,nextjs,azure,bash,bootstrap,tailwind&perline=12" />
   </a>
 </p>
-
-<h3 align="left">Talk with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/erick-rodriguez-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-pena-dev" height="30" width="40" /></a>
 
 ### Some stats!
 
