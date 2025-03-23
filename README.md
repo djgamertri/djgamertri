@@ -17,7 +17,7 @@ I want to finish my studies in software engineering in Canada, in addition to ge
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,express,php,py,java,cpp,docker,mysql,postgresql,mongodb,html,css,react,nextjs,azure,bash,bootstrap,tailwind&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,nodejs,express,php,py,java,cpp,docker,mysql,postgresql,mongodb,html,css,react,nextjs,astro,azure,bash,bootstrap,tailwind&perline=12" />
   </a>
 </p>
 
